@@ -4,5 +4,6 @@ def saludar():
 	print("Esta es una modificacion en la rama B")
 	print("Se modifica desde GIT para generar conflicto")
 	print("Se aniade cambios desde github")
-	print("Segundo conflicto pero desde GIT")
+	print("Segundo conflicto peor desde GIT")
+	print("Se modifica por segundad vez")
 saludar()
